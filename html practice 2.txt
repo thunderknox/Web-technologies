@@ -1,0 +1,14 @@
+<DOCTYPE HTML>
+	<html> 
+		<head> 
+			<title> Web technologies - Links and non related links! </title> 
+		</head> 
+	<body> 
+	
+	<a href="https://siwells.github.io/set08101/"> Module Website </a >
+	<a href="https://hackforums.net/index.php"> Good forum for asking questions / tutorials on web development </a> 
+	<a href="https://w3schools.com"> Another good web dev tutorial website </a> 
+	<a href="http://secondlife.com"> Virtual world i play on </a> 
+	<a href="http://hardstyle.com"> Where i purchase music from! </a> 
+	</body> 
+</html> 
